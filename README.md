@@ -12,4 +12,5 @@ SIL OFLライセンス等で公開されている和文フォントを改変し�
 PowerPointなどでもプロポーショナル幅で使用できます。なお、縦書きには対応していません。
 現在のところ、以下のフォントを公開しています。
 
-* Limo Gothic P（LINE Seed JPを改変）
+* Limo Gothic P（LINE Seed JPを改変、欧文はOpen Sansに変更）
+コンデンス体（c60, 70, 75, 80, 90）もあります。
